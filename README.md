@@ -57,3 +57,6 @@ The repository contains:
 
 ## LICENSE
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/1kar/OpenGL-SolarSystem/blob/master/LICENSE) file for details
+
+
+## TO RUN PROJECT OPEN DIAMONDENGINE.EXE file 
